@@ -24,3 +24,8 @@ If a repository contains more than one README file, then the file shown is chose
 
 If you add a README file to the root of a public repository with the same name as your username, that README will automatically appear on your profile page. You can edit your profile README with GitHub Flavored Markdown to create a personalized section on your profile. For more information, see ["Managing your profile README."](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
+# Auto-generated table of contents for README files
+
+For the rendered view of any Markdown file in a repository, including README files, GitHub will automatically generate a table of contents based on section headings. You can view the table of contents for a README file by clicking the  menu icon at the top left of the rendered page.
+
+![](readme-automatic-toc.webp)
