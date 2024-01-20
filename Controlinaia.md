@@ -29,3 +29,10 @@ If you add a README file to the root of a public repository with the same name a
 For the rendered view of any Markdown file in a repository, including README files, GitHub will automatically generate a table of contents based on section headings. You can view the table of contents for a README file by clicking the  menu icon at the top left of the rendered page.
 
 ![](readme-automatic-toc.webp)
+
+# Section links in README files and blob pages
+
+You can link directly to a section in a rendered file by hovering over the section heading to expose
+
+![](readme-links.webp)
+
