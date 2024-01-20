@@ -36,3 +36,12 @@ You can link directly to a section in a rendered file by hovering over the secti
 
 ![](readme-links.webp)
 
+# Relative links and image paths in README files
+
+You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
+
+A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in *docs/CONTRIBUTING.md*, the relative link to *CONTRIBUTING.md* in your README might look like this:
+
+```
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+```
